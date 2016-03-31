@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>首页</title>
+</head>
+<body>
+	<div>这是首页，当前登录用户是：<span style="color:green">{{currentuser}}</span>
+	{% ifequal currentuser "游客" %}
+		<a href="/user/userlogin">登录</a>
+	{% else %}
+		<a href="/user/userlogin?unlogin=1">安全退出</a>
+	{% endifequal %}
+	
+	</div>
+	<img src="/html/images/python.jpg"/>
+</body>
+</html>

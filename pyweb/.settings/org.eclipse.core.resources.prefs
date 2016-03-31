@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/CommonFuncs.py=utf-8
+encoding//src/com/index/indexController.py=utf-8
+encoding//src/com/user/userloginController.py=utf-8
+encoding//src/mydb/migrations/0001_initial.py=utf-8
+encoding//src/mydb/migrations/0002_auto_20160315_0453.py=utf-8
+encoding//src/mydb/models.py=utf-8
+encoding//src/myindex/UserClass.py=utf-8
+encoding//src/myindex/aa.py=utf-8
+encoding//src/myindex/user.py=utf-8
